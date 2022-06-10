@@ -2,7 +2,7 @@
 
 namespace Marqant\LaravelMediaLibraryGraphQL\GraphQL\Directives;
 
-use Nuwave\Lighthouse\Schema\Directives\GuardDirective;
+use Nuwave\Lighthouse\Auth\GuardDirective;
 
 /**
  * Class GuardMediaDirective
